@@ -38,5 +38,5 @@ POST {{baseUrl}}/rooms/{{roomId}}/questions
 Content-Type: application/json
 
 {
-     "question": "Qual o conceito de X dentro de Y?"
+     "question": "O que é React Native e a sua diferença em relação ao Flutter?"
 }
